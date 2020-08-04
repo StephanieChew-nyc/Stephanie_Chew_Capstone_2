@@ -1,4 +1,4 @@
-##Capstone 2: Japan Airbnb - Study Abroad Accommedations
+## Capstone 2: Japan Airbnb - Study Abroad Accommedations
 
 * **Goal**: To find the best Airbnb accommediation for study abroad students from Columbia University.
 
