@@ -1,7 +1,7 @@
 # Capstone 2
 ## Japan Airbnb - Study Abroad Accommodations
 
-* **Goal:** Find the best Airbnb accommodiation for study abroad students.
+* **Goal:** Find the best Airbnb accommodation for study abroad students. 
 
 * **Reason:** Offer students full experience of Japan by staying in local Airbnb homes/apartments.
 
