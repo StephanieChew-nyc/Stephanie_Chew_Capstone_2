@@ -19,4 +19,4 @@ Data Source: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 Data Used: [Saved on Google Drive](https://bit.ly/2BYg5n0)
 
-[Tableau Dashboard](https://public.tableau.com/views/DistrictsinTokyo/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/DistrictsinTokyo/TokyoAirbnbDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
